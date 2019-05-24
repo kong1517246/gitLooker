@@ -5,7 +5,3 @@ public static void main(){
 public void sayHello(){
     zlp;
 }
-
-public void punch(){
-    alp;
-}
